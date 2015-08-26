@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "55ca963bf3e4b5111e1d5bbd",
+    "question": "some other test question",
+    "pub_date": "2015-10-11T18:25:43.511Z",
+    "choices": [
+      {
+        "choice_text": "text a",
+        "votes": 0
+      },
+      {
+        "choice_text": "text b",
+        "votes": 0
+      }
+    ],
+    "campaign": "55c96d4c378a0a0bde6b57a6"
+  }
+]
